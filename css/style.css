@@ -1,0 +1,112 @@
+.home {
+	align-content: center;
+	padding-top: 175px;
+
+}
+
+.home .itali {
+	font-style: italic;
+	font-size: 40px;
+}
+
+.home .gras {
+	font-style: bold;
+	font-size: 60px;
+}
+
+.section {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+
+}
+
+/*.im {
+	margin-left: -50px;
+	margin-right: -50px;
+}
+*/
+
+
+#nom-entreprise {
+	font-style: italic;
+}
+
+.images {
+	padding-top: 50px;
+}
+
+.pad {
+	padding-bottom: 150px;
+}
+
+.pd {
+	padding: 55px;
+}
+
+.wh {
+	background-color: white;
+	width: calc(100% - 55px);
+	text-align: center;
+	padding-top: 25px;
+	margin-left: 27px;
+/*	font-size: 5vmin;
+	margin-right: 500px;
+*/
+}
+
+.mg1 {
+	margin-bottom: -125px;
+}
+.mg2 {
+	margin-top: -125px;
+}
+
+
+.mgs {
+	padding-bottom: 75px;
+	background-color: lightgrey;
+	padding-top: 35px;
+	padding-left: 150px;
+
+
+}
+
+
+.con {
+	padding-top: 2px;
+}
+
+.nav-item a {
+	color: white;
+	padding-left: 150px;
+}
+
+.saut {
+	margin-bottom: 500px;
+}
+
+.line{
+	height: calc(2200px - 380px);
+	width: 3px;
+	margin: 0 auto;
+	background: lightgrey;
+	position: absolute;
+	left: 50%;
+	/*bottom: 5000px;*/
+	z-index: 4;
+}
+
+.tof {
+	
+	position: relative;
+	left: 50%;
+	z-index: 9;
+	transform: translate(-50%);
+	align-items: center;
+	display: flex;
+}
+
+
+
